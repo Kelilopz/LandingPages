@@ -1,1 +1,1 @@
-Este es el main, si tu quieres ver las paginas, debes entrar a lars ramas
+Se realiza el diseño de la pagina 02 del link dado en clase 
