@@ -1,1 +1,1 @@
-Se realiza el diseño de la pagina 02 del link dado en clase 
+Se realiza el diseño de la pagina 43 del link dado en clase 
